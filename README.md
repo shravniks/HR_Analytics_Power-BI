@@ -1,6 +1,6 @@
 # HR_Analytics_Power-BI
 
-Key Insights Summary:
+Key Insights Summary
 
 Total Employees: The organization has grown significantly, currently employing 1470 individuals, indicating substantial growth and scale.
 
